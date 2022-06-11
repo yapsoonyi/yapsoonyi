@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yapsoonyi
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning various machine learning methods
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning machine learning and cloud computing
