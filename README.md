@@ -7,6 +7,7 @@
 ##### 🌱 I’m currently learning
 
 🙇🏻‍♀️ The fundamental concepts of data analysis and machine learning
+
 🔧 More advanced uses of Excel, Python, SQL, Tableau and Power BI
 
 
