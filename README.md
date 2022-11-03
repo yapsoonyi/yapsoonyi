@@ -4,7 +4,7 @@
 
 
 
-##### 🌱 I’m currently learning
+#### 🌱 I’m currently learning
 
 🙇🏻‍♀️ The fundamental concepts of data analysis and machine learning
 
@@ -12,6 +12,6 @@
 
 
 
-##### 📫 How to reach me
+#### 📫 How to reach me
 
 https://www.linkedin.com/in/soonyiyap/
