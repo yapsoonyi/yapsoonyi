@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Soon Yi!
 
-📊 I am currently an Business Analytics Executive in Kuala Lumpur, Malaysia, performing analysis in the hospitality and call centre industries.
+📊 I am currently an Business Analytics Executive in Kuala Lumpur, Malaysia, performing analysis for call centre in the hospitality industry
 
 
 
 #### 🌱 I’m currently learning
 
-🙇🏻‍♀️ The fundamental concepts of data analysis and machine learning
+🙇🏻‍♀️ The fundamental concepts of data analytics, data science and, machine learning
 
-🔧 More advanced uses of Excel, Python, SQL, Tableau and Power BI
+🔧 More advanced uses of Microsoft Excel, SQL, Python, Tableau and Microsoft Power BI
 
 
 
