@@ -6,7 +6,7 @@
 
 #### 🌱 I’m currently learning
 
-🙇🏻‍♀️ The fundamental concepts of data analytics, data science and, machine learning
+🙇🏻‍♀️ The fundamental concepts of data analytics, data engineering and cloud solution
 
 🔧 More advanced uses of Microsoft Excel, SQL, Python, Tableau and Microsoft Power BI
 
